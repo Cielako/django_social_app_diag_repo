@@ -166,8 +166,10 @@
         <mxCell id="ETzJ6x-0aW8w8nkq-FWt-1" value="Wybiera spośród opcji w profilu" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="70" width="110" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-3" target="ETzJ6x-0aW8w8nkq-FWt-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-3" target="ETzJ6x-0aW8w8nkq-FWt-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="120.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ETzJ6x-0aW8w8nkq-FWt-3" value="Zmiana hasła" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="90.5" width="120" height="60" as="geometry" />
@@ -175,8 +177,46 @@
         <mxCell id="ETzJ6x-0aW8w8nkq-FWt-5" value="Edycja konta użytkownika&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="171" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-7" value="użytkown" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="80.5" width="80" height="80" as="geometry" />
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-9" target="ETzJ6x-0aW8w8nkq-FWt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-9" value="Wpisuje stare hasło i wybiera nowe (musi spełnić wymagania haseł)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="90.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-10" value="Czy udało się zmienić hasło ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="65.75" width="110" height="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-12" value="Wylogowanie i przekierowanie na ekran logowania" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="90.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="65.75" as="sourcePoint" />
+            <mxPoint x="430" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="40" />
+              <mxPoint x="370" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-16" value="TAK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ETzJ6x-0aW8w8nkq-FWt-15">
+          <mxGeometry x="-0.0377" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-10" target="ETzJ6x-0aW8w8nkq-FWt-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="190" as="sourcePoint" />
+            <mxPoint x="455" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-20" value="NIE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ETzJ6x-0aW8w8nkq-FWt-17">
+          <mxGeometry x="-0.3532" y="-31" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
