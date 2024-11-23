@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.8.9">
-  <diagram name="Strona-1" id="l5M_mEIH-X4EvLjeIH_9">
+  <diagram name="register" id="l5M_mEIH-X4EvLjeIH_9">
     <mxGraphModel dx="2207" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -7,7 +7,7 @@
         <mxCell id="2" value=" znajduje się na stronie głównej" style="rounded=1;arcSize=40;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-100" y="124.5" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="ma utworzone konto " style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="5" value="Ma utworzone konto " style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="110" y="110" width="109" height="109" as="geometry" />
         </mxCell>
         <mxCell id="8" value="Loguje się na konto" style="rounded=1;arcSize=40;strokeWidth=2" parent="1" vertex="1">
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="12" value="Użytkownik może wybrać opcje nie pamiętam hasła" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1010" y="110" width="99" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="13" value="Stop" style="rounded=1;arcSize=40;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="1200" y="50" width="62" height="49" as="geometry" />
         </mxCell>
         <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2" target="5" edge="1">
           <mxGeometry relative="1" as="geometry">
