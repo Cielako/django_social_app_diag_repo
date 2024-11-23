@@ -142,14 +142,41 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GDPATZPzEDcKWIoBSw9Q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9t43LpdnYqC9v9-MGf1z-1" target="3TAzH9z2ATmfL9t_zpxz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9t43LpdnYqC9v9-MGf1z-1" value=" Znajduje się na stronie głównej" style="rounded=1;arcSize=40;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="50" y="20" width="140" height="80" as="geometry" />
+          <mxGeometry x="-760" y="80.5" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9t43LpdnYqC9v9-MGf1z-2" value="Użytkownik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry y="24.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="-810" y="85" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3TAzH9z2ATmfL9t_zpxz-1" value="wybiera " style="rounded=1;arcSize=40;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="300" y="20" width="140" height="80" as="geometry" />
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3TAzH9z2ATmfL9t_zpxz-1" target="ETzJ6x-0aW8w8nkq-FWt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TAzH9z2ATmfL9t_zpxz-1" value="Przechodzi do profilu użytkownika" style="rounded=1;arcSize=40;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="80.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-1" target="ETzJ6x-0aW8w8nkq-FWt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-1" target="ETzJ6x-0aW8w8nkq-FWt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-1" value="Wybiera spośród opcji w profilu" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="70" width="110" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-3" target="ETzJ6x-0aW8w8nkq-FWt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-3" value="Zmiana hasła" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="90.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-5" value="Edycja konta użytkownika&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="171" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-7" value="użytkown" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="80.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
