@@ -138,12 +138,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sFceopvQHvPM85_xyXI8" name="account">
-    <mxGraphModel dx="2207" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3034" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GDPATZPzEDcKWIoBSw9Q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9t43LpdnYqC9v9-MGf1z-1" target="3TAzH9z2ATmfL9t_zpxz-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9t43LpdnYqC9v9-MGf1z-1" target="ETzJ6x-0aW8w8nkq-FWt-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-690" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9t43LpdnYqC9v9-MGf1z-1" value=" Znajduje się na stronie głównej" style="rounded=1;arcSize=40;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-760" y="80.5" width="140" height="80" as="geometry" />
@@ -163,6 +168,15 @@
         <mxCell id="ETzJ6x-0aW8w8nkq-FWt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-1" target="ETzJ6x-0aW8w8nkq-FWt-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-1" target="ETzJ6x-0aW8w8nkq-FWt-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-360" y="146" />
+              <mxPoint x="-360" y="420" />
+              <mxPoint x="-250" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ETzJ6x-0aW8w8nkq-FWt-1" value="Wybiera spośród opcji w profilu" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="70" width="110" height="101" as="geometry" />
         </mxCell>
@@ -174,8 +188,14 @@
         <mxCell id="ETzJ6x-0aW8w8nkq-FWt-3" value="Zmiana hasła" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="90.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-5" target="ETzJ6x-0aW8w8nkq-FWt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-5" target="ETzJ6x-0aW8w8nkq-FWt-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ETzJ6x-0aW8w8nkq-FWt-5" value="Edycja konta użytkownika&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="171" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ETzJ6x-0aW8w8nkq-FWt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-9" target="ETzJ6x-0aW8w8nkq-FWt-10">
           <mxGeometry relative="1" as="geometry" />
@@ -217,6 +237,48 @@
           <mxGeometry x="-0.3532" y="-31" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-21" value="&lt;div&gt;Dodanie / usuwanie zdjęć z galerii typu mozaika&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-23" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Informacje o profilu (Wiek, płeć, wzrost, orientacja seksualna, wykształcenie, zainteresowania, języki, czego szukam&amp;nbsp; - tutaj jest tego multum do rozpisania później)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="300" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-26" value="Przegląd par (standardowe yes/no)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-47" target="ETzJ6x-0aW8w8nkq-FWt-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-620" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-47" target="ETzJ6x-0aW8w8nkq-FWt-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-690" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-47" target="ETzJ6x-0aW8w8nkq-FWt-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-760" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ETzJ6x-0aW8w8nkq-FWt-41" target="ETzJ6x-0aW8w8nkq-FWt-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-41" value="Przegląd par (standardowe yes/no)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=40;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-43" value="Zablokowani użytkownicy" style="whiteSpace=wrap;html=1;rounded=1;arcSize=40;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-45" value="Grupy (konkretne tematyki - szukanie znajomych etc.)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=40;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-47" value="Przechodzi do zakładki wiadomości" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="200" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ETzJ6x-0aW8w8nkq-FWt-59" value="Możliwość pisania wiadomości do wybranej pary" style="whiteSpace=wrap;html=1;rounded=1;arcSize=40;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
